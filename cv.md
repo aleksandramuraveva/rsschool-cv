@@ -1,5 +1,7 @@
 ## Aleksandra Muraveva
 Web Developer
+![My Photo](./gh-pages/photo.jpg "My photo")
+
 
 ***
 ## My contacts
