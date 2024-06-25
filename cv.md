@@ -30,3 +30,18 @@ function removeExclamationMarks(s) {
   return s.split("").filter(c => !c.includes("!")).join("");
 }
 ```
+
+***
+## My projects
+* [Portfolio](https://aleksmuraveva.web.app/)
+
+
+***
+## Education
+Moscow State University
+
+***
+## Languages
+* Russian - Native
+* English - B2
+* French - A2 
